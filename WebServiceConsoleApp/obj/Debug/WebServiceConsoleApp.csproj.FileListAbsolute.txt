@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.exe.config
+C:\Users\furka\source\repos\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.exe
+C:\Users\furka\source\repos\WebServiceConsoleApp\bin\Debug\WebServiceConsoleApp.pdb
+C:\Users\furka\source\repos\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.exe
+C:\Users\furka\source\repos\WebServiceConsoleApp\obj\Debug\WebServiceConsoleApp.pdb
