@@ -1,0 +1,11 @@
+C:\Users\furka\source\repos\TCKimlikDogrulama\bin\Debug\TCKimlikDogrulama.exe.config
+C:\Users\furka\source\repos\TCKimlikDogrulama\bin\Debug\TCKimlikDogrulama.exe
+C:\Users\furka\source\repos\TCKimlikDogrulama\bin\Debug\TCKimlikDogrulama.pdb
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.Form1.resources
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.Properties.Resources.resources
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.exe
+C:\Users\furka\source\repos\TCKimlikDogrulama\obj\Debug\TCKimlikDogrulama.pdb
